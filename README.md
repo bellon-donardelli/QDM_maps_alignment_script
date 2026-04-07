@@ -4,7 +4,7 @@ This repository contains a Python workflow for consistent alignment of repeated 
 
 In simple terms, the workflow uses the **LED / optical images** from two measurements to estimate how one image must be shifted, rotated, and slightly deformed to match the reference image. That transformation is then applied to the corresponding **QDM magnetic field map (`Bz`)**, so the maps can be compared in the same coordinate frame.
 
-This is useful when you measure the same sample through a sequence of steps, for example during **AF demagnetisation**, and you want all QDM maps aligned to one reference step such as **NRM** or **AF0**.
+This is useful when you measure the same sample through a sequence of steps, for example during **AF demagnetisation**, and you want all QDM maps aligned to one reference step.
 
 ## What this repository is for
 
