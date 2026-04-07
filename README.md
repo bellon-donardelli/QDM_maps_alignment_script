@@ -27,30 +27,6 @@ Add these folders if you want to include example data and example outputs:
 - `aligned_output_single_alignment/`
 - `aligned_output_batch_alignment/`
 
-## Repository structure
-
-After you add your own files, the repository should look like this:
-
-```text
-QDM_Map_Alignment/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── alignment_functions.py                # add manually
-├── QDM_Alignment_Single.ipynb            # add manually
-├── QDM_Alignment_Batch.ipynb             # add manually
-├── Testing_data/                         # add manually if you want to publish example data
-├── aligned_output_single_alignment/      # add manually if you want to publish example output
-├── aligned_output_batch_alignment/       # add manually if you want to publish example output
-└── docs/
-    ├── INSTALLATION.md
-    ├── USER_GUIDE.md
-    ├── FORMATS.md
-    ├── WARNINGS_AND_LIMITATIONS.md
-    ├── DATASET_AND_CITATION.md
-    └── PUBLISHING_CHECKLIST.md
-```
-
 ## Main files
 
 ### `alignment_functions.py`
