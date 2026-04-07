@@ -63,5 +63,5 @@ See [`docs/WARNINGS_AND_LIMITATIONS.md`](docs/WARNINGS_AND_LIMITATIONS.md).
 
 `Testing_data/` is intended to contain a same-sample dataset, for example an AF demagnetisation sequence of ceramic samples.
 
-If you publish the dataset in the repository, include the proper **Zenodo citation and DOI** in [`docs/DATASET_AND_CITATION.md`](docs/DATASET_AND_CITATION.md).
+You can cite the dataset as in [`docs/DATASET_AND_CITATION.md`](docs/DATASET_AND_CITATION.md).
 
