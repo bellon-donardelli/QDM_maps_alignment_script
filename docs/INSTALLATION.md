@@ -4,8 +4,6 @@
 
 Use **Python 3.11, 3.12, or 3.13**.
 
-A good simple choice is **Python 3.12** in a clean virtual environment.
-
 ## 1. Clone the repository
 
 ```bash
