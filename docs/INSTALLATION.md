@@ -9,8 +9,8 @@ A good simple choice is **Python 3.12** in a clean virtual environment.
 ## 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd QDM_Map_Alignment
+git clone https://github.com/bellon-donardelli/QDM_maps_alignment_script.git
+cd QDM_maps_alignment_script
 ```
 
 ## 2. Create a virtual environment
