@@ -99,20 +99,6 @@ Use this only if your QDM export convention requires vertical flipping.
 Use these to control color scaling in QC plots.
 
 ### `PIXEL_SIZE_UM`
-Set this if you want the QC figure axes shown in micrometres instead of pixels.
+Set this if you want the figure axes shown in micrometres instead of pixels.
 
 ---
-
-## How to check whether the alignment worked
-
-A good result usually shows:
-- the sample outlines matching well in the LED overlay
-- a smaller visual mismatch after alignment than before
-- a reasonable affine transformation, not a clearly unrealistic one
-
-If the result looks wrong:
-- check that the reference and target images are from the same sample area
-- check that the file paths are correct
-- check that the correct `Bz` file was loaded
-- try changing matching settings in the notebook
-- inspect the LED images to see whether there are enough visible features
