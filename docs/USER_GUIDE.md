@@ -40,7 +40,7 @@ Make sure you have:
 9. Save or keep the aligned output file
 
 ### What the notebook should produce
-Usually you will get:
+
 - alignment QC figures for the LED images
 - an aligned `Bz` file
 - a QC figure for the aligned field map
@@ -73,7 +73,7 @@ Each step folder should contain:
 7. Check the summary table at the end
 
 ### What the batch notebook should produce
-Usually you will get:
+
 - one aligned field output per step
 - QC plots for each aligned step
 - a summary of alignment performance
