@@ -13,31 +13,10 @@ Use this repository when you want to:
 - align a **series** of QDM maps from the same sample area to one common reference
 - save the aligned field maps for later plotting, comparison, or interpretation
 
-## What you need to add before publishing or using the repo
-
-This package was prepared **without** the source notebooks, the Python function file, or the data/output folders, because you said you will add them manually.
-
-Add these files to the repository root:
-- `alignment_functions.py`
-- `QDM_Alignment_Single.ipynb`
-- `QDM_Alignment_Batch.ipynb`
-
-Add these folders if you want to include example data and example outputs:
-- `Testing_data/`
-- `aligned_output_single_alignment/`
-- `aligned_output_batch_alignment/`
-
 ## Main files
 
 ### `alignment_functions.py`
 This file contains the mathematical and image-processing functions used by the notebooks.
-
-Typical tasks handled there include:
-- loading field data
-- saving aligned field data
-- estimating an affine transformation from LED images
-- applying that affine transformation to the `Bz` map
-- plotting quality-control figures
 
 ### `QDM_Alignment_Single.ipynb`
 This notebook is for **single alignment**.
@@ -45,7 +24,7 @@ This notebook is for **single alignment**.
 Use it when you want to align **one target map** to **one reference map**.
 
 Typical example:
-- reference = AF0 or NRM
+- reference = AF0 (NRM)
 - target = one later step
 
 ### `QDM_Alignment_Batch.ipynb`
@@ -54,7 +33,7 @@ This notebook is for **batch alignment**.
 Use it when you want to align **many maps** from the same sample area to **one reference map**.
 
 Typical example:
-- reference = AF0 or NRM
+- reference = AF0 (NRM)
 - targets = all later AF steps from the same demagnetisation sequence
 
 ## Supported data formats
@@ -86,11 +65,3 @@ See [`docs/WARNINGS_AND_LIMITATIONS.md`](docs/WARNINGS_AND_LIMITATIONS.md).
 
 If you publish the dataset in the repository, include the proper **Zenodo citation and DOI** in [`docs/DATASET_AND_CITATION.md`](docs/DATASET_AND_CITATION.md).
 
-## Recommended citation
-
-If you publish this repository, update the citation information with:
-- authors
-- year
-- repository title
-- version or release tag
-- DOI, if you archive it on Zenodo
