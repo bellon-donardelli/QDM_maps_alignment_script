@@ -3,7 +3,7 @@
 
 If you use the example dataset, please cite:
 
-> Donardelli Bellon, U., Gelson, F. S.-J., Williams, W., Muxworthy, A., Uieda, L., Roger R, F., Trindade, R., & Silveira de Moraes, C. (2026). *Dataset for: Microscale Pseudo-Thellier palaeointensity using a Quantum Diamond Microscope* (v0.1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.19455704
+> Bellon, U.D, Gelson, F. S.-J., Williams, W., Muxworthy, A., Uieda, L., Roger R, F., Trindade, R., & Silveira de Moraes, C. (2026). *Dataset for: Microscale Pseudo-Thellier palaeointensity using a Quantum Diamond Microscope* (v0.1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.19455704
 
 ## BibTeX
 
