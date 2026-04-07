@@ -70,7 +70,3 @@ TARGET_LED = "./Testing_data/AF2_5/LED.jpg"
 TARGET_FIELD = "./Testing_data/AF2_5/Bz_uc0.mat"
 ```
 
-## Notes
-
-- `requirements.txt` is pinned to specific package versions so installation is more reproducible.
-- If you already know your dataset only needs the notebooks, `notebook` and `ipykernel` are sufficient for the Jupyter side.
