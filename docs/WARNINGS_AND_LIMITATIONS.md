@@ -14,7 +14,7 @@ If the LED image has poor contrast, blur, strong cropping differences, or too fe
 
 ## 3. Check the result visually
 
-Always inspect the QC figures.
+Always inspect the figures.
 
 Do not assume that a produced output is automatically correct just because the notebook finished running.
 
