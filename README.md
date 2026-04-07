@@ -22,3 +22,7 @@ See [`docs/WARNINGS_AND_LIMITATIONS.md`](docs/WARNINGS_AND_LIMITATIONS.md).
 
 `Testing_data/` is intended to contain a same-sample dataset. Here we provided some AF demagnetisation data from archeological material (ceramic samples).  If needed, you can cite the dataset as in [`docs/DATASET_AND_CITATION.md`](docs/DATASET_AND_CITATION.md).
 
+```markdown
+# QDM Maps Alignment Script
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19455704.svg)](https://doi.org/10.5281/zenodo.19455704)
