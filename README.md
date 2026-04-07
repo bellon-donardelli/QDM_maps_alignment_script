@@ -6,13 +6,6 @@ In simple terms, the workflow uses the **LED / optical images** from two measure
 
 This is useful when you measure the same sample through a sequence of steps, for example during **AF demagnetisation**, and you want all QDM maps aligned to one reference step.
 
-## What this repository is for
-
-Use this repository when you want to:
-- align **one** QDM map to a reference map
-- align a **series** of QDM maps from the same sample area to one common reference
-- save the aligned field maps for later plotting, comparison, or interpretation
-
 ## Main files
 
 ### `alignment_functions.py`
