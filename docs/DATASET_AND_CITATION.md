@@ -16,8 +16,8 @@ If you use the example dataset, please cite:
 ## BibTeX
 
 ```bibtex
-@article{donardelli_bellon_2026_dataset,
-  author  = {Donardelli Bellon, U. and Gelson, F. S.-J. and Williams, W. and Muxworthy, A. and Uieda, L. and Roger R, F. and Trindade, R. and Silveira de Moraes, C.},
+@article{bellon_2026_dataset,
+  author  = {Bellon, U.D. and Gelson, F. S.-J. and Williams, W. and Muxworthy, A. and Uieda, L. and Roger R, F. and Trindade, R. and Silveira de Moraes, C.},
   title   = {[Dataset] Dataset for: Microscale Pseudo-Thellier palaeointensity using a Quantum Diamond Microscope},
   journal = {Zenodo},
   year    = {2026},
